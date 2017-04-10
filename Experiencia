@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <title>Hoja de Vida</title>
+    </head>
+
+  <body>
+      <svg>
+        <image xlink:href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/imagenes/logo_1.svg" width="300px" heigth="300px"></image>
+      </svg>
+         <p>
+            <ul>
+              <li>Nombre:<strong> Luis Armando </strong></li>
+              <li>Apellidos:<strong> Aguilar Ibarra </strong></li>
+              <li>Edad:<strong> 24 años </strong></li>
+              <li>Lugar de Nacimiento: <strong>Guadalajara,Jalisco</strong></li>
+              </ul>
+        </p>
+            <h2>Experiencia</h2>
+            <h3>Aspiracion Futura</h3>
+         <p>
+            <video controls>
+            <source src="F:/Universidad nextu/Evaluaciones/Fundamentos de html/video/aspiracion.webm" type="video/webm">
+            Texto por si el browser no soporta el video
+            </video>
+        </p>
+            <h3>Pasatiempos</h3>
+        <p>
+            <audio controls>
+              <source src="F:/Universidad nextu/Evaluaciones/Fundamentos de html/audio/Mi grabacion.wav" type="audio/wav">
+                Texto cuando tu browser no soporta audio
+            </audio>
+        </p>
+        <footer>
+            <h3>Derechos Reservados</h3>
+            <h4>Medios de Contacto</h4>
+                <ul>
+                  <li>Correo :<a href="mailto:Peque_44214934509@hotmail.com">Peque_44214934509@hotmail.com</a></li>
+                  <li>Telefono :4425160567</li>
+                  <li>Direccion:Queretaro,Qro Col.Lomas de Satelite #107</li>
+                </ul>
+        </footer>
+  </body>
+</html>
